@@ -1,0 +1,2 @@
+analizadorlexico.ValidacionEmail
+analizadorlexico.ValidacionCorreo

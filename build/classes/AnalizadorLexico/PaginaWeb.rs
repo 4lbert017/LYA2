@@ -1,0 +1,2 @@
+analizadorlexico.ExtractURLs
+analizadorlexico.PaginaWeb
