@@ -1,2 +1,2 @@
 # LYA2
-n
+Un analizador léxico en Java es una parte fundamental de un compilador o intérprete que se encarga de escanear el código fuente de un programa y dividirlo en tokens o unidades léxicas, como palabras clave, identificadores, números y símbolos. Utiliza expresiones regulares o una lógica específica para reconocer y clasificar estos elementos, lo que facilita el procesamiento posterior del código. Este componente es esencial para convertir el código fuente en una estructura de datos que el compilador o intérprete pueda comprender y manipular.
